@@ -1,5 +1,5 @@
 {
-  "name": "prayer-times",
+  "name": "get-prayer-times",
   "version": "1.0.0",
   "description": "prayer-times",
   "main": "index.js",
